@@ -1,0 +1,27 @@
+body{
+	background-color:#E2E6F2;
+}
+
+.card-3{
+	background-color:#F2197C ;
+}
+
+.block-card2{
+	background-color:#03035F;
+	height:200px;
+	line-height:150px;
+}
+
+.card{
+	height:500px;
+}
+
+.card-33{
+	height:600px;
+}
+
+.icon{
+	color:#E76A1F;
+	font-size:55px;
+	text-align:center;
+}
